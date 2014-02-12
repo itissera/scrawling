@@ -1,0 +1,12 @@
+package org.scrawlding
+
+import org.testng.annotations.Test
+
+class ToolTest{
+
+  @Test
+  def test(){
+    println("prueba")
+    assert(true)
+  }
+}
